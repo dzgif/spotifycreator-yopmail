@@ -5,7 +5,7 @@ Windows use XAMPP<br>
 Android use TERMUX<br>
 
 # Contoh Spotify Create (Result tersimpan di spotify.txt)
-Email : Terserahsob (gak usah pake @gmail udh otomatis)<br>
+Email : Terserahsob (gak usah pake @yopmail udh otomatis)<br>
 Password : login (masukin password sob)<br>
 Jumlah : 696969 (masukin jumlah mau brp sob)<br>
 
@@ -14,8 +14,8 @@ Jumlah : 696969 (masukin jumlah mau brp sob)<br>
   
   $ pkg install git<br>
   $ pkg install php<br>
-  $ git clone https://github.com/zeldriss/SpotifyTools.git<br>
-  $ cd SpotifyTools<br>
+  $ git clone https://github.com/dzgif/spotifycreator-yopmail.git<br>
+  $ cd spotifycreator-yopmail<br>
 
 # Run
 
